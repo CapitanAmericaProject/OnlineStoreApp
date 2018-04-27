@@ -2,31 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb086b12-ff86-4c82-8b44-b3623c975693" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Temp.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Messages/ImageMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Messages/Message.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Messages/TextMessage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Electronic.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Laptop.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Products/MP3Player.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Products/ManualBook.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Printer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Product.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Smartphone.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Products/TV.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Tablet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Users/Admin.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Users/Customer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Users/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Interfaces/ColorChangeable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Interfaces/Commentable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Interfaces/CreditCardPayable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/onlineStore/Interfaces/Likeable.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,46 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MP3Player.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/MP3Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Printer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Printer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Smartphone.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Smartphone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Tablet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Tablet.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,11 +68,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TextMessage.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TextMessage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/TextMessage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Commentable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/Commentable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreditCardPayable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/CreditCardPayable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ColorChangeable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/ColorChangeable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Likeable.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/Likeable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -144,6 +124,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -219,6 +201,13 @@
               <item name="Temp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="onlineStore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Temp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Temp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="onlineStore" type="462c0819:PsiDirectoryNode" />
+              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,7 +296,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -478,6 +467,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/Likable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/Commentable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/CreditCardPayable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/ColorChangeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/Likeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
