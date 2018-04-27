@@ -1,2 +1,4 @@
 # OnlineStoreApp
-Online Store App - Telerik Apha Assignment
+Online Store App - Telerik Alpha Assignment
+Team - Capitan America
+
