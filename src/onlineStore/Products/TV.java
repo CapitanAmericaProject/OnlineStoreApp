@@ -41,7 +41,7 @@ public class TV extends Electronic implements Likeable{
     public void showDescription() {
         System.out.printf("Model: %s\n",this.getModel());
         System.out.printf("Brand: %s\n",this.getBrand());
-        System.out.printf("Price: %f\n",this.getPrice());
+        System.out.printf("Price: %.2f\n",this.getPrice());
         System.out.printf("Color: %s\n",this.getColor());
         System.out.printf("Screen size: %s\"\n",this.getScreenSize());
         System.out.printf("Display technology: %s\n",this.getDisplayTechnology());

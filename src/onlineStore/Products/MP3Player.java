@@ -34,7 +34,7 @@ public class MP3Player extends Electronic implements CreditCardPayable {
     public void showDescription() {
         System.out.printf("Model: %s\n", this.getModel());
         System.out.printf("Brand: %s\n", this.getBrand());
-        System.out.printf("Price: %f\n", this.getPrice());
+        System.out.printf("Price: %.2f\n", this.getPrice());
         System.out.printf("Color: %s\n", this.getColor());
         System.out.printf("Storage: %dGB\n", this.getStorage());
         System.out.printf("Weight: %d grams\n", this.getWeight());

@@ -47,7 +47,7 @@ public class Laptop extends Electronic implements Likeable, CreditCardPayable {
     public void showDescription() {
         System.out.printf("Model: %s\n", this.getModel());
         System.out.printf("Brand: %s\n", this.getBrand());
-        System.out.printf("Price: %f\n", this.getPrice());
+        System.out.printf("Price: %.2f\n", this.getPrice());
         System.out.printf("Color: %s\n", this.getColor());
         System.out.printf("Display size: %s\"\n", this.displaySize);
         System.out.printf("RAM: %d\n", this.getRam());

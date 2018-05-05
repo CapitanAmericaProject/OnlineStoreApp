@@ -29,7 +29,7 @@ public class ManualBook extends Product {
         System.out.printf("Title: %s\n", this.getTitle());
         System.out.printf("Author: %s\n", this.getAuthor());
         System.out.printf("Publisher: %s\n", this.getPublisher());
-        System.out.printf("Price: %f\n", this.getPrice());
+        System.out.printf("Price: %.2f\n", this.getPrice());
         System.out.printf("Description: %s\n", this.getDescription());
         System.out.println();
     }

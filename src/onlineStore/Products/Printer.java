@@ -29,7 +29,7 @@ public class Printer extends Electronic implements CreditCardPayable {
     public void showDescription() {
         System.out.printf("Model: %s\n", this.getModel());
         System.out.printf("Brand: %s\n", this.getBrand());
-        System.out.printf("Price: %f\n", this.getPrice());
+        System.out.printf("Price: %.2f\n", this.getPrice());
         System.out.printf("Color: %s\n", this.getColor());
         System.out.printf("Connectivity: %s\n", this.getConnectivity());
         System.out.printf("Printing speed: %d\n", this.getPrintingSpeed());

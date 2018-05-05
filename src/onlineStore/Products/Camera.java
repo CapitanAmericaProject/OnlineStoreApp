@@ -27,7 +27,7 @@ public class Camera extends Electronic {
     public void showDescription() {
         System.out.printf("Model: %s\n", this.getModel());
         System.out.printf("Brand: %s\n", this.getBrand());
-        System.out.printf("Price: %f\n", this.getPrice());
+        System.out.printf("Price: %.2f\n", this.getPrice());
         System.out.printf("Color: %s\n", this.getColor());
         System.out.printf("Optical zoom: %dx\n", this.getOpticalZoom());
         System.out.printf("Image stabilization: %s\n", this.hasImageStabilization());
