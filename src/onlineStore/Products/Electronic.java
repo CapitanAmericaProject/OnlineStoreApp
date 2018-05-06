@@ -29,4 +29,6 @@ public abstract class Electronic extends Product {
     }
 
     public abstract void showImage();
+
+    public abstract void showDescription();
 }

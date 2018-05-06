@@ -1,6 +1,6 @@
 package onlineStore.Products;
 
-public abstract class Product {
+public class Product {
     private String description;
     private double price;
     private String image;
@@ -10,7 +10,10 @@ public abstract class Product {
         this.price = price;
         this.image = image;
     }
-
+    @Override
+    public String toString() {
+        return String.format("Image: %s\nPrice: %f.2$\nDescription: %s", image, price, description);
+    }
     public String getDescription() {
         return description;
     }
@@ -27,5 +30,5 @@ public abstract class Product {
         return image;
     }
 
-    public abstract void showDescription();
+
 }
