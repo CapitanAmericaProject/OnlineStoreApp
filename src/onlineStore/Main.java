@@ -26,7 +26,7 @@ public class Main {
         store.registerCustomer("Tosho", "123", "5563", "Teodor", "str.A2");
         store.registerCustomer("Pesho", "123","1234", "Peter", "str.A3");
 
-        Customer niki = new Customer("Niki", "654", "9999", "Nikolay", "str.K1");
+        Customer niki = new Customer("Niki", "654", "num", "Nikolay", "str.K1");
         Customer tosho = new Customer("Tosho", "123", "8888", "Todor", "str.K2");
 
 

@@ -21,12 +21,20 @@ public class ShoppingCart {
         products.add(product);
     }
 
-    public void addAndPayCreditcard(Electronic product, Customer customer){
-        if (Character.isLetter(customer.getCreditCard().charAt(0))){
-            throw new CreditcardNotValidException("This customer does not have credit card registered!");
+    public void addAndPayCreditcard(Electronic product, Customer customer) throws CreditcardNotValidException{
+
+        try {
+
+            if (Character.isLetter(customer.getCreditCard().charAt(0))) {
+                throw new CreditcardNotValidException("This customer does not have credit card registered!");
+            }
+            product.payWithCreditcard();
+            products.add(product);
         }
-        product.payWithCreditcard();
-        products.add(product);
+        catch (CreditcardNotValidException e){
+
+            System.out.println("This customer does not have credit card registered!");
+        }
     }
 
     public void addAndChangeColor(Smartphone product, String color) {
