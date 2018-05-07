@@ -2,26 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b968a35-2803-4ff5-a3ad-a708b3413410" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Messages/ImageMessage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Messages/Message.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Messages/TextMessage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Camera.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Camera.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Electronic.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Electronic.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Laptop.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Laptop.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/MP3Player.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/MP3Player.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/ManualBook.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/ManualBook.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Printer.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Printer.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Product.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Product.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Smartphone.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Smartphone.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/TV.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/TV.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Tablet.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Tablet.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/Admin.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/Admin.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/Customer.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/Customer.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/ShoppingCart.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/ShoppingCart.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/User.class" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/User.class" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/ManualBook.java" afterPath="$PROJECT_DIR$/src/onlineStore/Products/ManualBook.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Temp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/com/company/Messages/Forum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/com/company/Messages/ImageMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/com/company/Messages/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/com/company/Messages/TextMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Interfaces/ColorChangeable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Interfaces/ColorChangeable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Interfaces/Commentable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Interfaces/Commentable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Interfaces/CreditCardPayable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Interfaces/CreditCardPayable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Interfaces/Likeable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Interfaces/Likeable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Appliance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Appliance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/ApplianceBrand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/ApplianceBrand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Camera.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Camera.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/DisplayTechnologyType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/DisplayTechnologyType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Electronic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Electronic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/EnergyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/EnergyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Laptop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/MP3Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/MP3Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/ManualBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/ManualBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/OperationSystemType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/OperationSystemType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Refrigerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Refrigerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Smartphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Smartphone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Stove.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Stove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/TV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Tablet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/Tablet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/WashingMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/WashingMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/WirelessTechnologyType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Products/WirelessTechnologyType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/CanChangePassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/CanChangePassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/ShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/ShoppingCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Temp/onlineStore/Users/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Messages/Forum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Messages/Forum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Messages/ImageMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Messages/ImageMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Messages/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Messages/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Messages/TextMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Messages/TextMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/Appliance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Appliance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/Electronic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Electronic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/ManualBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Products/ManualBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/Refrigerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Refrigerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/Stove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Stove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/WashingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Products/WashingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Users/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Users/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Users/CanChangePassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Users/CanChangePassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Users/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Users/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Users/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Users/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineStore/Users/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineStore/Users/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,39 +71,45 @@
       <file leaf-file-name="Admin.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/Admin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="253">
+              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Appliance.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Appliance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Appliance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-              <folding />
+            <state relative-caret-position="198">
+              <caret line="11" column="39" selection-start-line="7" selection-start-column="21" selection-end-line="11" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplianceBrand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/ApplianceBrand.java">
+      <file leaf-file-name="CanChangePassword.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/CanChangePassword.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="144">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Camera.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Camera.java">
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-              <folding />
+            <state relative-caret-position="126">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <folding>
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#676#677#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,9 +117,8 @@
       <file leaf-file-name="WashingMachine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/WashingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="468">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -86,9 +126,8 @@
       <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="828">
+              <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -96,19 +135,33 @@
       <file leaf-file-name="ShoppingCart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="198">
+              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/onlineStore/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="198">
+              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stove.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Stove.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,19 +169,12 @@
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Store.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/Store.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-              <folding />
+            <state relative-caret-position="361">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,18 +193,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/onlineStore/Main.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Messages/ImageMessage.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Messages/Message.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Messages/TextMessage.java" />
         <option value="$PROJECT_DIR$/src/onlineStore/Interfaces/ColorChangeable.java" />
         <option value="$PROJECT_DIR$/src/onlineStore/Interfaces/Commentable.java" />
         <option value="$PROJECT_DIR$/src/onlineStore/Interfaces/CreditCardPayable.java" />
@@ -170,25 +207,30 @@
         <option value="$PROJECT_DIR$/src/onlineStore/Products/Laptop.java" />
         <option value="$PROJECT_DIR$/src/onlineStore/Products/MP3Player.java" />
         <option value="$PROJECT_DIR$/src/onlineStore/Products/Printer.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Products/Smartphone.java" />
         <option value="$PROJECT_DIR$/src/onlineStore/Products/Tablet.java" />
         <option value="$PROJECT_DIR$/src/onlineStore/Products/TV.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Users/Store.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Users/User.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Users/CanChangePassword.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Users/Admin.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Products/Electronic.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Products/Product.java" />
         <option value="$PROJECT_DIR$/src/onlineStore/Products/ApplianceBrand.java" />
         <option value="$PROJECT_DIR$/src/onlineStore/Products/eClass.java" />
         <option value="$PROJECT_DIR$/src/onlineStore/Products/EnergyClass.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Products/Appliance.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Products/WashingMachine.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Products/Stove.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Products/Refrigerator.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java" />
-        <option value="$PROJECT_DIR$/src/onlineStore/Users/Customer.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Messages/Forum.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Messages/ImageMessage.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Messages/Message.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Messages/TextMessage.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Products/Smartphone.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Products/Electronic.java" />
         <option value="$PROJECT_DIR$/src/onlineStore/Products/ManualBook.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Products/Appliance.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Products/Refrigerator.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Users/Store.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Products/Product.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Products/WashingMachine.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Products/Stove.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Users/Admin.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Users/User.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Users/CanChangePassword.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Users/Customer.java" />
+        <option value="$PROJECT_DIR$/src/onlineStore/Main.java" />
       </list>
     </option>
   </component>
@@ -200,62 +242,53 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Temp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Temp" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreApp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Temp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Temp" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Temp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Temp" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="onlineStore" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Temp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Temp" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="onlineStore" type="462c0819:PsiDirectoryNode" />
               <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Temp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Temp" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="onlineStore" type="462c0819:PsiDirectoryNode" />
               <item name="Messages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Temp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Temp" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="onlineStore" type="462c0819:PsiDirectoryNode" />
               <item name="Products" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Temp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Temp" type="462c0819:PsiDirectoryNode" />
+              <item name="StoreApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StoreApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="onlineStore" type="462c0819:PsiDirectoryNode" />
               <item name="Users" type="462c0819:PsiDirectoryNode" />
@@ -265,14 +298,15 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -293,18 +327,9 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="onlineStore.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Temp" />
-      <envs />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
@@ -324,13 +349,10 @@
       <method />
     </configuration>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <list>
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -346,175 +368,149 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="41" width="1938" height="1048" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18177083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32830626" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32830626" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18421052" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907193" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/ManualBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/Commentable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/MP3Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
-          <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/CreditCardPayable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/Likeable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/ColorChangeable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Tablet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/TV.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/ImageMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/Message.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/TextMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/Commentable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/CreditCardPayable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/ColorChangeable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/Likeable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/ImageMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/TextMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -523,229 +519,336 @@
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/OperationSystemType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/WirelessTechnologyType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/Commentable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/CreditCardPayable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/Likeable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Interfaces/ColorChangeable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="44" lean-forward="false" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/DisplayTechnologyType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/MP3Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="31" column="37" lean-forward="false" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Smartphone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="46" column="37" lean-forward="false" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Tablet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
-          <caret line="52" column="37" lean-forward="false" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/TV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/CanChangePassword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="49" lean-forward="false" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Laptop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/EnergyClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Refrigerator.java">
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Stove.java">
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/ImageMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Electronic.java">
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/TextMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="396">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/Forum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/ManualBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/Admin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/WashingMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/Store.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/ApplianceBrand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="72">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/TV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="169" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Smartphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="146" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Electronic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Camera.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="450">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/ManualBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Refrigerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Laptop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="148" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Appliance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-          <folding />
+        <state relative-caret-position="198">
+          <caret line="11" column="39" selection-start-line="7" selection-start-column="21" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/WashingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Products/Stove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/CanChangePassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Temp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

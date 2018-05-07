@@ -2,22 +2,22 @@ package onlineStore.Products;
 
 public class Stove extends Appliance {
 
-    int capacity;
+    int power;
 
-    public Stove(String model,
-                 int price,
+    public Stove(String image,
+                 double price,
                  String description,
                  ApplianceBrand brand,
                  EnergyClass eClass,
                  int capacity) {
 
-        super(model, price, description, brand, eClass);
+        super(image, price, description, brand, eClass);
 
-        this.capacity = capacity;
+        this.power = capacity;
     }
 
     public String toString() {
-        return String.format("%s\n Volume: %s watts", super.toString(), capacity);
+        return String.format("%s\nPower: %s watts", super.toString(), power);
     }
 
     @Override

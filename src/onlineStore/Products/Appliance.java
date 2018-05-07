@@ -5,13 +5,13 @@ public abstract class Appliance extends Product{
     private ApplianceBrand brand;
     private EnergyClass eClass;
 
-    public Appliance(String description,
+    public Appliance(String image,
                      double price,
-                     String image,
+                     String description,
                      ApplianceBrand brand,
                      EnergyClass eClass) {
 
-        super(description, price, image);
+        super(image, price, description);
 
         this.brand = brand;
         this.eClass = eClass;
@@ -19,8 +19,7 @@ public abstract class Appliance extends Product{
     }
 
     public String toString() {
-        return String.format("%s\n %s\n Energy class %s", brand, super.toString(), eClass);
+        return String.format("%s\n%s\nEnergy class %s", brand, super.toString(), eClass);
     }
 
-    public abstract void showDescription();
 }

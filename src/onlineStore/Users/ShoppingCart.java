@@ -22,7 +22,7 @@ public class ShoppingCart {
 
     public void listProducts(){
 
-        products.forEach(System.out::println);
+        products.forEach(x -> System.out.println(x + "\n"));
     }
 
     public void removeProduct(Product p) {

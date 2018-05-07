@@ -24,7 +24,7 @@ public class ManualBook extends Product {
         return publisher;
     }
 
-
+    @Override
     public void showDescription() {
         System.out.printf("Title: %s\n", this.getTitle());
         System.out.printf("Author: %s\n", this.getAuthor());

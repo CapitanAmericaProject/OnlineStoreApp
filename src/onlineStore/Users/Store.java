@@ -45,25 +45,32 @@ public class Store {
             System.out.println("The item does not exist!");
     }
 
-    public boolean validateAdmin(String username, String password){
+    boolean validateAdmin(String username, String password) {
 
-        for (Admin a: admins) {
-            if (!username.equals(a.getUsername()) || !password.equals(a.getPassword())){
-                System.out.println("Incorrect username or password!");
-                return false;
+        boolean isValid = false;
+        for (Admin a : admins) {
+            if (username.equals(a.getUsername()) || password.equals(a.getPassword())) {
+
+                isValid = true;
             }
-
         }
-        return true;
+        return isValid;
     }
-    public boolean validateCustomer(String username, String password){
 
-        for (Customer c: customers) {
-            if (!username.equals(c.getUsername()) || !password.equals(c.getPassword())){
-                System.out.println("Incorrect username or password!");
-                return false;
+    boolean validateCustomer(String username, String password) {
+
+        boolean isValid = false;
+        for (Customer c : customers) {
+            if (username.equals(c.getUsername()) || password.equals(c.getPassword())) {
+
+                isValid = true;
             }
         }
-        return true;
+        return isValid;
+    }
+
+    public void listAllProducts(){
+
+        productsList.forEach(x -> System.out.println(x + "\n"));
     }
 }

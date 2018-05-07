@@ -2,7 +2,7 @@ package onlineStore.Users;
 
 import onlineStore.Products.Product;
 
-public class Customer extends User {
+public class Customer extends User implements CanChangePassword{
 
     private static int ID = 100;
     private String creditCard;
@@ -28,30 +28,31 @@ public class Customer extends User {
     }
 
     @Override
-    public void login(User u) {
+    public void login(User u, Store store) {
 
         if (u instanceof Customer) {
             if (store.validateCustomer(u.getUsername(), u.getPassword())) {
-                System.out.printf("You are logged in as %s. Your ID %d", u.getUsername(), ((Customer) u).getId());
-            }
+                System.out.printf("You are logged in as %s. Your ID %d\n", u.getUsername(), ((Customer) u).getId());
+            } else
+                System.out.println("Incorrect username or password!");
         }
     }
 
     @Override
-    public boolean validatePassword(User u, String password) {
+    public boolean validatePassword(Customer c, String password) {
 
-        return (u instanceof Customer && u.getPassword().equals(password));
-
+        return (c.getPassword().equals(password));
     }
 
     @Override
-    public void changePassword(User u, String password) {
+    public void changePassword(Customer c, String oldPassword, String newPassword) {
 
-        if (validatePassword(u, password)) {
+        if (validatePassword(c, oldPassword)) {
 
-            u.setPassword(password);
-        }
-
+            System.out.println(c.getUsername() + " Your password has been changed.");
+            c.setPassword(newPassword);
+        }else
+            System.out.println("Password not changed!");
     }
 
     public void addToCart(Product p) {

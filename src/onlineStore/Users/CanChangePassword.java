@@ -2,7 +2,7 @@ package onlineStore.Users;
 
 public interface CanChangePassword {
 
-    boolean validatePassword(User u, String password);
+    boolean validatePassword(Customer u, String password);
 
-    void changePassword(User u, String password);
+    void changePassword(Customer u, String oldPassword, String newPassword);
 }
