@@ -21,8 +21,9 @@ public class MP3Player extends Electronic implements CreditCardPayable {
     }
 
     @Override
-    public void creditCardPayable() {
-        this.setPrice(this.getPrice() * 0.9);
+    public void payWithCreditcard() {
+        setPrice(this.getPrice() - this.getPrice() / 10);
+
     }
 
     @Override

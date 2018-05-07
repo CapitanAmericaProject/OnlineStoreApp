@@ -41,11 +41,11 @@ public class Main {
         Tablet tablet = new Tablet("tablet", 200, "image", "Lenovo", "P202", "white", 12,
                 OperationSystemType.FIREOS, WirelessTechnologyType.THREE_G);
         store.addProduct(fridge);
-        store.addProduct(TV);
+        store.addProduct(tv);
         store.addProduct(laptop);
 
         ((Admin) rosi).addNewProduct(smartPhone, store);
-        ((Admin) rosi).removeProduct(TV, store);
+        ((Admin) rosi).removeProduct(tv, store);
 
 
         Product peralnia = new WashingMachine("peralnq", 500, "pere", ApplianceBrand.ARISTON, EnergyClass.A, 10);
