@@ -37,6 +37,12 @@ public class Tablet extends Electronic implements Commentable, ColorChangeable {
     }
 
     @Override
+    public void payWithCreditcard() {
+        setPrice(this.getPrice() - this.getPrice() / 10);
+
+    }
+
+    @Override
     public void addComment(String comment) {
         this.comments.add(comment);
     }

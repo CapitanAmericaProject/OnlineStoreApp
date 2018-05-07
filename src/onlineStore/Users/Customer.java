@@ -12,11 +12,12 @@ public class Customer extends User implements CanChangePassword{
 
     public Customer(String username,
                     String password,
+                    String creditCard,
                     String name,
                     String address) {
 
         super(username, password);
-
+        this.creditCard = creditCard;
         this.name = name;
         this.address = address;
         cart = new ShoppingCart();
@@ -25,6 +26,14 @@ public class Customer extends User implements CanChangePassword{
 
     private int getId() {
         return ID;
+    }
+
+    public String getCreditCard() {
+        return creditCard;
+    }
+
+    public ShoppingCart getCart() {
+        return cart;
     }
 
     @Override
@@ -55,20 +64,4 @@ public class Customer extends User implements CanChangePassword{
             System.out.println("Password not changed!");
     }
 
-    public void addToCart(Product p) {
-
-        cart.addProduct(p);
-    }
-
-    public void removeFromCart(Product p) {
-
-        cart.removeProduct(p);
-    }
-
-    public void checkOut() {
-
-        cart.listProducts();
-
-        System.out.println("Total sum: " + cart.getTotalSum());
-    }
 }

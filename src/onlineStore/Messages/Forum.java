@@ -19,7 +19,7 @@ public class Forum {
     }
 
     public void postImage(String author, String time, String image){
-        messages.add(new TextMessage(author, time, image));
+        messages.add(new ImageMessage(author, time, image));
     }
 
 }

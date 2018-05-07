@@ -26,6 +26,12 @@ public class Printer extends Electronic implements CreditCardPayable {
     }
 
     @Override
+    public void payWithCreditcard() {
+        setPrice(this.getPrice() - this.getPrice() / 10);
+
+    }
+
+    @Override
     public void showDescription() {
         System.out.printf("Model: %s\n", this.getModel());
         System.out.printf("Brand: %s\n", this.getBrand());
@@ -35,10 +41,5 @@ public class Printer extends Electronic implements CreditCardPayable {
         System.out.printf("Printing speed: %d\n", this.getPrintingSpeed());
         System.out.printf("Description: %s\n", this.getDescription());
         System.out.println();
-    }
-
-    @Override
-    public void creditCardPayable() {
-        this.setPrice(this.getPrice() * 0.9);
     }
 }

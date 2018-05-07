@@ -53,6 +53,12 @@ public class Smartphone extends Electronic implements Commentable, ColorChangeab
     }
 
     @Override
+    public void payWithCreditcard() {
+        setPrice(this.getPrice() - this.getPrice() / 10);
+
+    }
+
+    @Override
     public void changeColor(String color) {
         this.setColor(color);
     }

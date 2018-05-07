@@ -1,8 +1,8 @@
 package onlineStore.Products;
 
-import onlineStore.Interfaces.Likeable;
+import onlineStore.Interfaces.Likable;
 
-public class TV extends Electronic implements Likeable{
+public class TV extends Electronic implements Likable {
     private int screenSize;
     private DisplayTechnologyType displayTechnology;
     private int modelYear;
@@ -35,6 +35,12 @@ public class TV extends Electronic implements Likeable{
     @Override
     public void showImage() {
         System.out.printf("This is the image of %s %s",this.getBrand(),this.getModel());
+    }
+
+    @Override
+    public void payWithCreditcard() {
+        setPrice(this.getPrice() - this.getPrice() / 10);
+
     }
 
     @Override

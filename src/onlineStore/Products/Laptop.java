@@ -1,9 +1,9 @@
 package onlineStore.Products;
 
 import onlineStore.Interfaces.CreditCardPayable;
-import onlineStore.Interfaces.Likeable;
+import onlineStore.Interfaces.Likable;
 
-public class Laptop extends Electronic implements Likeable, CreditCardPayable {
+public class Laptop extends Electronic implements Likable, CreditCardPayable {
     private int displaySize;
     private int ram;
     private String cpuType;
@@ -44,6 +44,12 @@ public class Laptop extends Electronic implements Likeable, CreditCardPayable {
     }
 
     @Override
+    public void payWithCreditcard() {
+        setPrice(this.getPrice() - this.getPrice() / 10);
+
+    }
+
+    @Override
     public void showDescription() {
         System.out.printf("Model: %s\n", this.getModel());
         System.out.printf("Brand: %s\n", this.getBrand());
@@ -57,8 +63,4 @@ public class Laptop extends Electronic implements Likeable, CreditCardPayable {
         System.out.println();
     }
 
-    @Override
-    public void creditCardPayable() {
-        this.setPrice(this.getPrice() * 0.9);
-    }
 }

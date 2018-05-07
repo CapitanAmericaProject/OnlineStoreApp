@@ -24,6 +24,12 @@ public class Camera extends Electronic {
     }
 
     @Override
+    public void payWithCreditcard() {
+        setPrice(this.getPrice() - this.getPrice() / 10);
+
+    }
+
+    @Override
     public void showDescription() {
         System.out.printf("Model: %s\n", this.getModel());
         System.out.printf("Brand: %s\n", this.getBrand());

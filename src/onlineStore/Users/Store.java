@@ -20,10 +20,11 @@ public class Store {
 
     public void registerCustomer(String username,
                                  String password,
+                                 String creditCart,
                                  String name,
                                  String address) {
 
-        customers.add(new Customer(username, password, name, address));
+        customers.add(new Customer(username, password, creditCart, name, address));
     }
 
     public void registerAdmin(String username, String password) {

@@ -1,6 +1,8 @@
 package onlineStore.Products;
 
-public abstract class Electronic extends Product {
+import onlineStore.Interfaces.CreditCardPayable;
+
+public abstract class Electronic extends Product implements CreditCardPayable {
     private String brand;
     private String model;
     private String color;
