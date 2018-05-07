@@ -1,4 +1,4 @@
-package com.company.Messages;
+package onlineStore.Messages;
 
 public class TextMessage extends Message {
     private String content;

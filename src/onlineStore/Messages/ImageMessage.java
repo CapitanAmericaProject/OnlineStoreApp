@@ -1,4 +1,4 @@
-package com.company.Messages;
+package onlineStore.Messages;
 
 public class ImageMessage extends Message {
     private String image;

@@ -1,4 +1,4 @@
-package com.company.Messages;
+package onlineStore.Messages;
 
 import java.util.ArrayList;
 import java.util.List;

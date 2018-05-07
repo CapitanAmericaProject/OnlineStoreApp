@@ -1,4 +1,4 @@
-package com.company.Messages;
+package onlineStore.Messages;
 
 public abstract class Message {
     private String author;
