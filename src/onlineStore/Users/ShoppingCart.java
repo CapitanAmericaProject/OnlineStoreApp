@@ -54,8 +54,10 @@ public class ShoppingCart {
     public void listProducts() {
         for (Product product : products) {
             product.showDescription();
+            System.out.println();
         }
         System.out.println();
+
     }
 
 }

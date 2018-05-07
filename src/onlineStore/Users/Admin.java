@@ -1,6 +1,9 @@
 package onlineStore.Users;
 
+import onlineStore.Messages.Message;
 import onlineStore.Products.Product;
+
+import java.util.List;
 
 public class Admin extends User {
 
@@ -9,6 +12,12 @@ public class Admin extends User {
 
         super(username, password);
 
+    }
+
+    public void listMessages(List<Message> messages){
+        for (Message mess: messages) {
+            System.out.println(mess);
+        }
     }
 
     @Override

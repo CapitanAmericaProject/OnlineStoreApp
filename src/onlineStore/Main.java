@@ -1,5 +1,6 @@
 package onlineStore;
 
+import onlineStore.Messages.Forum;
 import onlineStore.Products.*;
 import onlineStore.Users.*;
 
@@ -54,6 +55,13 @@ public class Main {
         niki.getCart().addToCart(laptop);
         niki.getCart().addAndPayCreditcard(laptop, niki);
         niki.getCart().addAndChangeColor(tablet, "yellow");
+        niki.getCart().listProducts();
+
+        Forum forum = new Forum();
+        forum.postText("Ivan", "03:42", "Very nice store!");
+        forum.postText("Michael", "03:20", "Awsome, great app!");
+        forum.postImage("Nedko", "04:34", "Image of a smartphone");
+        ((Admin) rosi).listMessages(forum.getMessages());
 
     }
 }
