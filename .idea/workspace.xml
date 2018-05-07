@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b968a35-2803-4ff5-a3ad-a708b3413410" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Interfaces/ColorChangeable.java" afterPath="$PROJECT_DIR$/src/onlineStore/Interfaces/ColorChangeable.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Interfaces/Commentable.java" afterPath="$PROJECT_DIR$/src/onlineStore/Interfaces/Commentable.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Interfaces/CreditCardPayable.java" afterPath="$PROJECT_DIR$/src/onlineStore/Interfaces/CreditCardPayable.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Interfaces/Likeable.java" afterPath="$PROJECT_DIR$/src/onlineStore/Interfaces/Likable.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Main.java" afterPath="$PROJECT_DIR$/src/onlineStore/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Messages/Forum.java" afterPath="$PROJECT_DIR$/src/onlineStore/Messages/Forum.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/Camera.java" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Camera.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/Electronic.java" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Electronic.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/Laptop.java" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Laptop.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/Printer.java" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Printer.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/Smartphone.java" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Smartphone.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/TV.java" afterPath="$PROJECT_DIR$/src/onlineStore/Products/TV.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Products/Tablet.java" afterPath="$PROJECT_DIR$/src/onlineStore/Products/Tablet.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Users/Customer.java" afterPath="$PROJECT_DIR$/src/onlineStore/Users/Customer.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java" afterPath="$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java" />
-      <change beforePath="$PROJECT_DIR$/src/onlineStore/Users/Store.java" afterPath="$PROJECT_DIR$/src/onlineStore/Users/Store.java" />
-    </list>
+    <list default="true" id="7b968a35-2803-4ff5-a3ad-a708b3413410" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShoppingCart.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ShoppingCart.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
@@ -79,16 +60,6 @@
                 <element signature="e#1177#1178#0" expanded="true" />
                 <element signature="e#1217#1218#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Forum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/Forum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -210,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="50" />
     <option name="width" value="977" />
@@ -379,7 +350,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -803,6 +774,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/Forum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/onlineStore/Users/ShoppingCart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
@@ -815,14 +794,6 @@
             <element signature="e#1177#1178#0" expanded="true" />
             <element signature="e#1217#1218#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onlineStore/Messages/Forum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
